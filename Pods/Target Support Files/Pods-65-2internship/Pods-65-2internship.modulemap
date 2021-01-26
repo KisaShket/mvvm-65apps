@@ -1,0 +1,6 @@
+framework module Pods_65_2internship {
+  umbrella header "Pods-65-2internship-umbrella.h"
+
+  export *
+  module * { export * }
+}
